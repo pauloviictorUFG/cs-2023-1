@@ -1,0 +1,4 @@
+## PESQUISA SOBRE ARQUITETURA REST ##
+
+Uma REST API é uma interface utilizada no desenvolvimento de software que serve para facilitar a comunicação de aplicativos que sejam independentes. A arquiterua REST define um conjunto de regras que devem ser seguidos para que seja considerado uma API REST e dessas regras a principal é a utilização dos verbos HTTP para indicar as ações do CRUD que será realizado (GET, POST, PUT e DELETE).
+Apesar de utilizar diariamente no trabalho, e já ter construidos diversas vezes API na Arquitetura REST, nessa pesquisa eu achei incrível descobrir que as API Rest não são utilizadas somente por aplicativos web, mas também ela pode ser utilizada por app mobile e também Desktop. Eu acho a arquitetura REST incrível, pois permite que diferentes aplicativos e serviços se comuniquem de forma eficiente e confiável, além de serem escaláveis, flexíveis e facilmente integradas com outras tecnologias da web.
