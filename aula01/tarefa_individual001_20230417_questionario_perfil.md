@@ -22,18 +22,7 @@
         • pauloviictorUFG
       * Crie um repositório com o nome **cs-2023-1** e compartilhe com o professor. Meu usuário no _github_ para trabalhos acadêmicos é **gilmarUFG**;
       * Crie duas novas _branchs_ no seu repositório pessoal. Uma para você fazer _commit_ das tarefas da disciplina e outra com o nome **professor**. Esta _branch_ receberá o conteúdo da sua _branch_ somente através de operações de _pull request_.
-      9.2.  Se não:
-      *  Crie uma conta e informe o nome do seu usuário;
-      *  Crie um repositório com o nome **cs-2023-1** e compartilhe com o professor.  Meu usuário no _github_ para trabalhos acadêmicos é **gilmarUFG**;
-      * Crie duas novas _branchs_ no seu repositório pessoal. Uma para você fazer _commit_ das tarefas da disciplina e outra com o nome **professor**. Esta _branch_ receberá o conteúdo da sua _branch_ somente através de operações de _pull request_.
 10. Você possui algum impedimento para trabalhar em equipe?
+  • Nenhum
 11. Você possui equipamento adequado para a implementação das atividades relacionadas à disciplina?
-
-INSTRUÇÕES:
-1. Este é um arquivo no formato _markdown_ (.md), caso você precise de orientações a respeito da forma como editar este tipo de arquivo, acesso este [link](https://guides.github.com/features/mastering-markdown/);
-2. No seu repositório pessoal no _github_, na sua _branch_ pessoal, crie a pasta aula01;
-3. Adicione este arquivo no seu repositório, na pasta aula01;
-4. Responda ao questionário constante do arquivo;
-5. Remova esta Seção de INSTRUÇÕES, do arquivo respondido.
-6. Faça o _Commit_ do arquivo atualizado com suas respostas.
-7. Isso deve ser feito até as 23h59min do dia 20/04/2023.
+  • Creio que meu computador suporta as atividades necessárias
